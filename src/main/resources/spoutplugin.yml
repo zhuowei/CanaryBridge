@@ -1,0 +1,7 @@
+name: CanaryBridge
+version: 1.0.0
+description: Spoutworth, meet hey0.
+author: zhuowei
+main: net.zhuoweizhang.canarybridge.CanaryBridgePlugin
+load: startup
+platform: BOTH
